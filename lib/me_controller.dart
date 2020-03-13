@@ -8,7 +8,7 @@ class MeController extends ResourceController {
     'id': 1,
     'name': 'Marcus Costa',
     'points': 123,
-    'image_path': '',
+    'image_path': 'https://via.placeholder.com/150/32a852/000000%20?text=redspark.io',
   };
 
   @Operation.get()
